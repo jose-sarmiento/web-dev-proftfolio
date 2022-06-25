@@ -13,6 +13,7 @@ import mu5 from '../assets/mu5.png';
 import node from '../assets/node.png';
 import python from '../assets/python.png';
 import react from '../assets/react.png';
+import laravel from '../assets/laravel.png';
 import redux from '../assets/redux.png';
 import sass from '../assets/sass.png';
 import typescript from '../assets/typescript.png';
@@ -23,7 +24,7 @@ import about02 from '../assets/about02.png';
 import about03 from '../assets/about03.png';
 import about04 from '../assets/about04.png';
 
-import profile from '../assets/profile.png';
+import programmer from '../assets/programmer.png';
 import circle from '../assets/circle.svg';
 import logo from '../assets/logo.png';
 
@@ -51,6 +52,7 @@ export default {
   node,
   python,
   react,
+  laravel,
   redux,
   sass,
   typescript,
@@ -59,7 +61,7 @@ export default {
   about02,
   about03,
   about04,
-  profile,
+  programmer,
   circle,
   logo,
   adidas,
